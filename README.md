@@ -1,5 +1,7 @@
 # Spark Query DSL
 
+[![License](https://img.shields.io/github/license/dataiku/spark-query-dsl.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
 This library provides a DSL (Domain Specific Language) to join
 Spark DataFrames automatically or semi-automatically.
 
